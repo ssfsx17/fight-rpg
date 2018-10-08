@@ -68,7 +68,7 @@ Block tokens are the workhorse for keeping oneself alive.
 
 ### Complex Action
 
-Complex Actions can be nice-to-haves for spending Power Points, or the foundation of general fighting strategy. Most techniques taht require Complex Action tokens tend to also require the others. Complex Actions can be considered the special glue that binds a complete strategy.
+Complex Actions can be nice-to-haves for spending Power Points, or the foundation of general fighting strategy. Most techniques that require Complex Action tokens tend to also require the others. Complex Actions can be considered the special glue that binds a complete strategy.
 
 1 Complex Action token can be spent to:
 

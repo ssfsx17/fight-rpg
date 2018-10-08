@@ -15,6 +15,11 @@ There are references to "Maximum" versions of Super Actions. Maximum versions ca
 - If you do another Super Technique while in Super Advanced Status, then this instantly ends the Super Advanced Status, and you spend the costs of the other Super Technique normally. The other Super Technique will be performed in its Maximum version.
 - You can use this technique immediately after any action that caused damage or knockdown.
 
+**Super Armor Status** (1 Complex Action)
+
+- You enter the Super Armor Status for 4 status phases. When the Super Armor Status counts down, it gives you 1 additional Block token.
+- While in Super Armor Status, you can spend 2 Block tokens to get the effect of spending 2 Block tokens, as well as perform a technique of your own. This means that against up to 4 damage, you could ignore it and immediately counterattack. Against 5 or more damage, you could accept a small amount of damage in order to deal out your own.
+
 **Super Chase Combo** (2 Complex Action)
 
 - Attempts to cause 5 damage.
@@ -31,6 +36,7 @@ There are references to "Maximum" versions of Super Actions. Maximum versions ca
 
 - Attempts to cause 5 damage.
 - Requires 3 Move tokens to dodge, rather than 2.
+- Can be done as a reaction to any non-super projectile. If used as such a reaction, then the Super Projectile is undodgeable and unblockable.
 - When blocked, it still does a minimum of 1 damage.
 - Maximum version attempts to cause 7 damage instead.
 
@@ -54,6 +60,6 @@ There are references to "Maximum" versions of Super Actions. Maximum versions ca
 **Super Wall of Energy** (2 Complex Action)
 
 - Attempts to cause 4 damage.
-- Can be done as a reaction to the target using a Move token to remove one of your Block tokens. If used as such a reaction, then the Super Wall of Energy is undodgeable and unblockable.
+- Can be done as a reaction to the target using a Move token to remove one of your Block tokens. Can also be done as a reaction to any projectile. If used as such a reaction, then the Super Wall of Energy is undodgeable and unblockable.
 - When blocked, it still does a minimum of 1 damage.
 - Maximum version attempts to cause 6 damage instead.
