@@ -10,7 +10,7 @@
 8. [Complex Actions](/08-Complex-Actions.md)
 9. [Magic Actions](/09-Magic-Actions.md)
 10. [Super Actions](/10-Super-Actions.md)
-11. Game Master Advice
+11. [Game Master Advice](/11-Game-Master-Advice.md)
 
 Fight RPG is a Pen & Paper role-playing game that revolves around the clashes between **Ideals**, and ultimately, the destiny of the entire universe. Every character in this game is a **Fighter** in some way.
 

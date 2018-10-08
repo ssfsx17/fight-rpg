@@ -70,3 +70,4 @@ Summon Obstacle (1 Complex Action, 1 Move, 1 Block)
 
 Teleport (1 Complex Action, 2 Move)
 - Removes 3 Block tokens from the opponent.
+- In Map Combat, this also moves you up to 20 feet away from your current position.

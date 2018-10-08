@@ -31,6 +31,7 @@ Knockdown is important for controlling the pace and space of a fight. The more c
 1 Knockdown token can be spent to:
 
 - Decrease a target's order by 1. In map combat, this also moves the target 5 feet in any direction of your choice.
+- Combine with 1 Damage token to react to incoming damage. You still take the incoming damage, but you also cause 1 damage back.
 
 Each Knockdown token that hits or is blocked also gives you 1 Power Point.
 
@@ -53,6 +54,7 @@ Move tokens are versatile, but less efficient than the others.
 
 - Remove 1 Block token from a target.
 - In map combat, move 5 feet.
+- Combine with 1 Grapple token to grab an opponent, causing 2 damage. This is unblockable.
 
 2 Move tokens can be spent to:
 

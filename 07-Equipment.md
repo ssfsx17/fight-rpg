@@ -83,7 +83,9 @@ Player-Characters start with two types of equipment or resources.
 
 ## Resources
 
-- **Bomb** - Places a bomb that will attempt to cause 3 damage to all combatants. It detonates in your first action of the next round. Combatants can react to it as if it was a projectile damage technique.
+Each type of **Resource** can be used a maximum of 5 times per fight. A resource always requires 2 Complex Action tokens to use.
+
+- **Bomb** - Places a bomb that will attempt to cause 3 damage to all combatants, including yourself. It detonates in your first action of the next round. Combatants can react to it as if it was a projectile damage technique.
 - **Coin** - Attempt to cause 1 Damage. If the damage hits or is blocked, then it also takes away 1 Move from the target.
 - **Food** - Places food on the ground. A fighter can spend 2 Move to grab the food, regaining 3 health.
 - **Healing Bean** - Restores 1 health to yourself or one ally.
