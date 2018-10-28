@@ -29,7 +29,7 @@ Lifedrain Grab (2 Complex Action, 1 Move, 1 Grapple)
 
 Long-Reach Attack (1 Complex Action, 2 Damage)
 - Attempts to do 2 damage.
-- Can be done as a response to Damage or Knockdown. If done as a response to such, 
+- Can be done as a response to Damage or Knockdown. If done as a response to such, it trades damage evenly.
 
 Parry (1 Complex Action, 1 Move, 2 Block)
 - Can be done in response to your opponent doing a Damage or Knockdown. You negate the Damage and Knockdown, then immediately do an action of your choice that becomes undodgeable and unblockable.

@@ -24,14 +24,14 @@ In order to join a group with a different Founding Ideal, a Fighter must integra
 | Bananas (the fruit type)  | Life
 | Beauty                    | Love
 | Benevolence               | Loyalty
-| Chaos                     | Martial Art: <Specific>
+| Chaos                     | Martial Art: \<Specific\>
 | Conformity                | Money
 | Conquest                  | Muscle Mass
 | Corruption                | Originality
-| Cruelty                   | Planet: <Specific>
+| Cruelty                   | Planet: \<Specific\>
 | Discovery                 | Science
-| Efficiency                | Sports Team: <Specific>
+| Efficiency                | Sports Team: \<Specific\>
 | Equality                  | Trust
-| Family: <Specific>        | Vengeance: <Specific>
+| Family: \<Specific\>      | Vengeance: \<Specific\>
 | Friendship                | Violence
 | Justice                   | Wisdom

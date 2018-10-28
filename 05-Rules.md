@@ -6,7 +6,7 @@ The rules are focused on the fighting that occurs between empowered Fighters. Co
 
 ## Fighter Statistics
 
-- **Damage** - This is what you want to cause to others, while taking less yourself. When a combatant has 10 or more damage, the combatant is defeated. Therefore, the goal of a fight is usually to accumulate 10 damage dealt against each enemy.
+- **Damage** - This is what you want to cause to others, while taking less yourself. When a combatant has 10 or more damage, the combatant is defeated and removed from the fight. Therefore, the goal of a fight is usually to accumulate 10 damage dealt against each enemy.
 - **Power Points** - These are used for **Magic** and **Super** actions.
 
 ## Tokens
@@ -32,6 +32,7 @@ Knockdown is important for controlling the pace and space of a fight. The more c
 
 - Decrease a target's order by 1. In map combat, this also moves the target 5 feet in any direction of your choice.
 - Combine with 1 Damage token to react to incoming damage. You still take the incoming damage, but you also cause 1 damage back.
+- Combine with 1 Grapple and Move token to grab an opponent, causing 2 damage. This is unblockable. Since a Knockdown token was added, it also decreases the target's order by 1. In map combat, this also moves the target 10 feet in any direction of your choice.
 
 Each Knockdown token that hits or is blocked also gives you 1 Power Point.
 
@@ -43,6 +44,7 @@ Grappling is valuable for being a way to deal damage that is unblockable. Keepin
 
 - Cancel out a Grapple token being used on you.
 - Combine with 1 Move token to grab an opponent, causing 2 damage. This is unblockable.
+- Combine with 1 Move and 1 Knockdown to cause the above grab, as well as decrease the target's order by 1. In map combat, this also moves the target 10 feet in any direction of your choice.
 
 Each Grapple token that causes damage also gives you 1 Power Point.
 
@@ -55,6 +57,7 @@ Move tokens are versatile, but less efficient than the others.
 - Remove 1 Block token from a target.
 - In map combat, move 5 feet.
 - Combine with 1 Grapple token to grab an opponent, causing 2 damage. This is unblockable.
+- Combine with 1 Grapple and 1 Knockdown to cause the above grab, as well as decrease the target's order by 1. In map combat, this also moves the target 10 feet in any direction of your choice.
 
 2 Move tokens can be spent to:
 
@@ -95,3 +98,17 @@ Each combatant acts in the order that was determined by the Order Phase. If it i
 ### 4. Status Phase
 
 All status conditions perform their stated effects, then their durations are decreased by 1. If this results in a duration of 0, then the status is removed.
+
+## Injuries
+
+When a fighter is at 10 or more damage, they are defeated, and can no longer participate in the fight. But, player-fighters as well as those of the same or higher strength can take injuries to keep fighting. One injury removes 1 damage, but **reserves** one skill point. Flexible pool must be spent on that skill, but the injury prevents a token from being gained.
+
+**Example:** "The Dragon" reaches 10 damage, and decides to take an injury to his Spirit skill. This decreases his damage to 9. However, he must now spend at least 1 Flexible Pool on his Spirit every round, and does not gain the first Complex Action token from such expenditure.
+
+The limit on injuries taken on a skill is equal to that skill's number. For example, with a Spirit skill of 4, a fighter cannot take more than 4 injuries to Spirit.
+
+## Chain Knockdowns
+
+When a fighter is forcibly moved in a direction, they will also bump into the first thing in the path. If the forced movement results in hitting something, then both the moved fighter and the other object take 1 additional damage. This can also result in a domino effect or bowling pins effect, with a chain of objects knocking each other over and proliferating that 1 point of damage.
+
+No fighter or object can take more than 1 damage a result of one incident of chain knockdowns, even if they end up being knocked into more than one other object during the incident.

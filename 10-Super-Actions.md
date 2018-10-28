@@ -13,7 +13,8 @@ There are references to "Maximum" versions of Super Actions. Maximum versions ca
 
 - You enter the Super Advanced Status for 4 status phases. When the Super Advanced Status counts down, it gives you 1 additional Damage token.
 - If you do another Super Technique while in Super Advanced Status, then this instantly ends the Super Advanced Status, and you spend the costs of the other Super Technique normally. The other Super Technique will be performed in its Maximum version.
-- You can use this technique immediately after any action that caused damage or knockdown.
+- You can use this technique immediately after any action that caused damage or knockdown, in which case its duration is halved.
+- Maximum version lasts for 8 status phases.
 
 **Super Armor Status** (1 Complex Action)
 
