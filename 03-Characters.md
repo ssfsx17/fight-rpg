@@ -12,9 +12,9 @@ Write an additional Ideal for the character. This will become the first of the F
 
 ## 3. Skills
 
-Assign numbers to skills. For each area of Fighting Skills, Debating Skills, and Creative Skills, assign numbers as follows: 4, 4, 3, 3, 2, 2
+Assign numbers to skills. For each area of Fighting, Debating, and Searching, assign numbers as follows: 4, 4, 3, 3, 2, 2
 
-This means that all characters have a baseline of usefulness, and have something to do during Fighting, Debating, and Creative scenes.
+This means that all characters have a baseline of usefulness, and always have something to do during Fighting, Debating, and Searching scenes.
 
 ## 4. Descriptors
 

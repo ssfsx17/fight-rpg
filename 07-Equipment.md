@@ -4,7 +4,7 @@ Most equipment **reserves** tokens. This means that if you are able to spend you
 
 This makes equipment and resources seem to be disadvantageous compared to Complex Actions, except that you can trade, take, or sell them. Therefore, equipment and resources are quick ways to gain a capability that you need for only one fight.
 
-Player-Characters start with two types of equipment or resources.
+Player-Characters start with the ability to have two types of equipment or resources at a time.
 
 ## Protective
 
@@ -78,7 +78,7 @@ Player-Characters start with two types of equipment or resources.
 **Whip**
 
 - Reserves 1 Block.
-- You gain the "Whip Pull" Equipment Action. This technique costs 1 Complex Action, 1 Damage, and 1 Move. It attempts to cause 2 Damage. If any damage gets through, then it also pulls the target into close range and takes away 1 Block from the target.
+- You gain the "Whip Pull" Equipment Action. This technique costs 1 Complex Action, 1 Damage, and 1 Move. It attempts to cause 2 Damage. If any damage gets through, then it also pulls the target into close range and removes 1 Block token from the target.
 - Takes up a whole hand. You can drop it as a result of being disarmed.
 
 ## Resources
