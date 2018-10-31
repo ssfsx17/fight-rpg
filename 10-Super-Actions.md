@@ -7,7 +7,7 @@ There are references to "Maximum" versions of Super Actions. Maximum versions ca
 - Be at 3 health or less.
 - Be in the Super Advanced state.
 
----
+## Fighting
 
 **Super Advanced Status** (1 Complex Action)
 

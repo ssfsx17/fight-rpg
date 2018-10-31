@@ -1,5 +1,7 @@
 # Complex Actions
 
+## Fighting
+
 Counter Technique (1 Complex Action, 1 Block, 2 Damage)
 - Can only be used as a reaction to a Damage or Knockdown token. If the Counter Technique is successful, it does 3 damage.
 

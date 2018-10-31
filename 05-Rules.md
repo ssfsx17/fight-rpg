@@ -15,7 +15,7 @@ Fighting involves the expenditure of **Tokens**. There are exactly six types of 
 
 ### Damage
 
-Damage is the workhorse that defeats opponents. It is what you want opponents to receive 10 or more of.
+Damage is the workhorse that defeats opponents. It is what you want opponents to receive 10 or more of. Keeping your opponents guessing whether you will hurt them with Damage or Grapple tokens is an important tactic.
 
 1 Damage token can be spent to:
 
@@ -85,7 +85,7 @@ Complex Actions can be nice-to-haves for spending Power Points, or the foundatio
 
 Each combatant rolls three dice. Each combatant's dice result is their quantity of Flexible Pool. They then allocate their Flexible Pool to the different types of tokens, with the maximum expenditure being determined by their attributes.
 
-*Example: "The Dragon" has a Spirit of 4. This means that he can allocate 0, 1, 2, 3, or 4 of his Flexible Pool to Complex Action tokens during this phase.*
+**Example:** "The Dragon" has a Complex Actions skill of 4. This means that he can allocate 0, 1, 2, 3, or 4 of his Flexible Pool to Complex Action tokens during this phase.
 
 ### 2. Order Phase
 
@@ -103,9 +103,9 @@ All status conditions perform their stated effects, then their durations are dec
 
 When a fighter is at 10 or more damage, they are defeated, and can no longer participate in the fight. But, player-fighters as well as those of the same or higher strength can take injuries to keep fighting. One injury removes 1 damage, but **reserves** one skill point. Flexible pool must be spent on that skill, but the injury prevents a token from being gained.
 
-**Example:** "The Dragon" reaches 10 damage, and decides to take an injury to his Spirit skill. This decreases his damage to 9. However, he must now spend at least 1 Flexible Pool on his Spirit every round, and does not gain the first Complex Action token from such expenditure.
+**Example:** "The Dragon" reaches 10 damage, and decides to take an injury to his Complex Actions skill. This decreases his damage to 9. However, he must now spend at least 1 Flexible Pool on Complex Actions, and does not gain the first Complex Action token from such expenditure.
 
-The limit on injuries taken on a skill is equal to that skill's number. For example, with a Spirit skill of 4, a fighter cannot take more than 4 injuries to Spirit.
+The limit on injuries taken on a skill is equal to that skill's number. For example, with a Complex Actions skill of 4, a fighter cannot take more than 4 injuries to Complex Actions.
 
 ## Chain Knockdowns
 

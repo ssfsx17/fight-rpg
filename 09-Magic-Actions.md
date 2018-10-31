@@ -2,6 +2,8 @@
 
 Magic Actions start with a Power Point cost of 1, and can have up to 30 Power Points spent on them. Magic Actions could change drastically based on how many Power Points are spent.
 
+## Fighting
+
 **Healing Field** - Creates a field that becomes active on your first action in the next round. While active, a team member can spend 1 Move to touch the field and receive 1 point of healing. Each team member can touch it a maximum of once per round. While active, it lasts for 1 status phase per 10 Power Points.
 
 - 1 Power Point - You must also spend 3 Complex Action tokens to deploy the field.

@@ -1,30 +1,29 @@
 # Skills
 
-New characters must assign numbers to skills in the areas of Fighting, Debating, and Creative. For each area, the character gets this array of numbers: 4, 4, 3, 3, 2, 2.
+New characters must assign numbers to skills in the areas of Fighting, Debating, and Searching. For each area, the character gets this array of numbers: 4, 4, 3, 3, 2, 2.
 
-## Fighting Skills
+The skills in each area are:
 
-- **Explosiveness** - Maximum amount of Flexible Pool that can be allocated to Damage tokens during the Flexible Pool Phase.
-- **Strength** - Maximum amount of Flexible Pool that can be allocated to Knockdown tokens during the Flexible Pool Phase.
-- **Balance** - Maximum amount of Flexible Pool that can be allocated to Grapple tokens during the Flexible Pool Phase.
-- **Speed** - Maximum amount of Flexible Pool that can be allocated to Move tokens during the Flexible Pool Phase.
-- **Reactions** - Maximum amount of Flexible Pool that can be allocated to Block tokens during the Flexible Pool Phase.
-- **Spirit** - Maximum amount of Flexible Pool that can be allocated to Complex Action tokens during the Flexible Pool Phase.
+- **Damage** - Maximum amount of Flexible Pool that can be allocated to Damage tokens during the Flexible Pool Phase.
+- **Knockdown** - Maximum amount of Flexible Pool that can be allocated to Knockdown tokens during the Flexible Pool Phase.
+- **Grapple** - Maximum amount of Flexible Pool that can be allocated to Grapple tokens during the Flexible Pool Phase.
+- **Move** - Maximum amount of Flexible Pool that can be allocated to Move tokens during the Flexible Pool Phase.
+- **Block** - Maximum amount of Flexible Pool that can be allocated to Block tokens during the Flexible Pool Phase.
+- **Complex Actions** - Maximum amount of Flexible Pool that can be allocated to Complex Action tokens during the Flexible Pool Phase.
 
-## Debating Skills
+It can be inferred that very high skill numbers - or even having double the skill numbers of your opponent - do not guarantee success. They only provide the potential for success, and the flexibility to exploit weaknesses.
 
-- **Verbal** - Debating equivalent of Explosiveness. Maximum amount of Flexible Pool that can be allocated to Argument tokens during the Flexible Pool Phase.
-- **Awareness** - Debating equivalent of Strength. Maximum amount of Flexible Pool that can be allocated to Evidence tokens during the Flexible Pool Phase.
-- **Relational** - Debating equivalent of Balance. Maximum amount of Flexible Pool that can be allocated to Ad Hominem tokens during the Flexible Pool Phase.
-- **Research** - Debating equivalent of Speed. Maximum amount of Flexible Pool that can be allocated to Case History tokens during the Flexible Pool Phase.
-- **Critique** - Debating equivalent of Reactions. Maximum amount of Flexible Pool that can be allocated to Definition tokens during the Flexible Pool Phase.
-- **Philosophy** - Debating equivalent of Spirit. Maximum amount of Flexible Pool that can be allocated to Concept tokens during the Flexible Pool Phase.
+**Example:** "The Dragon" chooses his Fighting skills as follows:
 
-## Creative Skills
+| Skill           | Number |
+| ---             | ---    |
+| Damage          | 3
+| Knockdown       | 3
+| Grapple         | 2
+| Move            | 2
+| Block           | 4
+| Complex Actions | 4
 
-- **Concentration** - Creative equivalent of Explosiveness. Maximum amount of Flexible Pool that can be allocated to Work tokens during the Flexible Pool Phase.
-- **Scope Control** - Creative equivalent of Strength. Maximum amount of Flexible Pool that can be allocated to Specify tokens during the Flexible Pool Phase.
-- **Practice** - Creative equivalent of Balance. Maximum amount of Flexible Pool that can be allocated to Reuse tokens during the Flexible Pool Phase.
-- **Experimentation** - Creative equivalent of Speed. Maximum amount of Flexible Pool that can be allocated to Material tokens during the Flexible Pool Phase.
-- **Patience** - Creative equivalent of Reactions. Maximum amount of Flexible Pool that can be allocated to Careful tokens during the Flexible Pool Phase.
-- **Artistic Vision** - Creative equivalent of Spirit. Maximum amount of Flexible Pool that can be allocated to Artistic Flair tokens during the Flexible Pool Phase.
+## Other Areas
+
+The GM can write in any arbitrary areas for skills. For example, if the game world is written as being focused on large-scale warfare, then a War Strategy area may be added for skills. If the game world is written as being focused on politicking and scheming, then a Manipulation area may be added for skills, or the Debating area could be renamed to Manipulation. Anything that can be described as two entities trying to defeat each other can be encompassed within the game mechanics.
