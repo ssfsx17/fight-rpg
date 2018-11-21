@@ -1,18 +1,12 @@
 # Game Master Advice
 
-Everything in this chapter is **advice** rather than **rules**. The rules themselves are likewise considered suggestions for a well-structured game of *Fight RPG*, but this chapter is even less strict. Players cannot demand that anything in this chapter be used in 100% of *Fight RPG* games in the world.
+Players cannot demand that anything in this chapter be used in 100% of *Fight RPG* games in the world.
 
-## The Stakes of Fighting
-
-Defeat is not equivalent to death. A combatatant who has taken 10 damage is not necessarily dead. Instead, death should be saved for special occasions.
-
-The player-fighters are, in fact, encouraged to fight each other as part of planned training exercises. They may fight those who do not necessarily have opposite ideals just to size each other up. They may fight to the point of serious injuries in tournaments, but remain respectful of their opponents. Fighters tend to become more friendly and respectful with each other after a fight, unless they have opposite ideals.
-
-## Character Progression
+## Character Improvement
 
 ### Gaining Ideals
 
-Each fighter should take turns pushing themselves to gain more ideals. First, to fill out their North, East, West, and South ideals. Then, to add more ideals extending from those. The players' fighters should have roughly the same number of ideals, give or take one. If one fighter has 2 more ideals than another fighter, then that should be considered a problem.
+Each fighter should take turns pushing themselves to gain more ideals. First, to fill out their North, East, West, and South ideals. Then, to add more ideals extending from those. The players' fighters should have roughly the same number of ideals, give or take one. If one fighter has 2 more ideals than another fighter, then that should be considered a game-breaking problem.
 
 The frequency at which ideals are gained depends on the type of campaign. One ideal per game session is a good rule to follow in order to flesh out the characters. With that type of schedule, it would take a number of game sessions equal to the number of players' fighters in order for everyone to have a chance at their next ideal.
 
@@ -28,7 +22,7 @@ After each game session, the GM can also hand out one **experience point** to al
 | ---     | ---     |
 | 2       | Learn a new Special Technique, and bind it to an Ideal
 | 3       | Learn a new Magic Technique, and bind it to an Ideal
-| 4       | Gain a new Equipment/Resource slot, and bind it to an Ideal
+| 4       | Increase Equipment/Resource capacity by 1, and bind it to an Ideal
 | 5       | Learn a new Super Technique, and bind it to an Ideal
 | 8       | Gain a Skill Point, and bind it to an Ideal
 

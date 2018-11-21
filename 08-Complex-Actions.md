@@ -14,6 +14,9 @@ Evasive Roll (1 Complex Action, 1 Move)
 Fakeout (1 Complex Action, 1 Move, 1 Block)
 - Attached to another Special Technique. Fakeout protects you from reactions to the Special Technique that would normally be undodgeable or unblockable. Thus, it can help to bait out Counter, Parry, Super Surrounding Energy, etc.
 
+Far Throw (1 Complex Action, 1 Knockdown, 1 Grapple, 1 Move)
+- Attempts to grab for 3 damage. If successful, it also acts as if the target was hit by 2 Knockdown.
+
 Flying Technique (1 Complex Action, 1 Move, 1 Knockdown)
 - Attempts to do 1 damage and 1 knockdown.
 - The knockdown requires an additional Block token to negate.
@@ -73,3 +76,24 @@ Summon Obstacle (1 Complex Action, 1 Move, 1 Block)
 Teleport (1 Complex Action, 2 Move)
 - Removes 3 Block tokens from the opponent.
 - In Map Combat, this also moves you up to 20 feet away from your current position.
+
+## Debating
+
+Entrapment (1 Complex Action, 2 Block)
+- Attempts to do 1 Damage and 1 Knockdown.
+- Can be done in response to your opponent using a Damage or Knockdown token. If used as such a response, it is unblockable and undodgeable.
+
+Hidden Evidence (1 Complex Action, 1 Grapple, 1 Move)
+- Attempts to grab for 3 damage.
+
+Hold it (1 Complex Action, 2 Move)
+- Remove 2 Move tokens from an opponent.
+
+Induce Confession (1 Complex Action, 2 Damage)
+- Does no damage. Instead, it functions as if 2 Knockdown tokens were used on one opponent.
+
+Non Sequitor (1 Complex Action, 2 Move)
+- Acts as using 3 Move tokens.
+
+Objection (1 Complex Action, 1 Block, 1 Move)
+- Remove 2 Damage tokens from an opponent.

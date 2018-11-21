@@ -16,22 +16,58 @@ Fighters become more complex over time as they interact with other ideals. They 
 
 In order to join a group with a different Founding Ideal, a Fighter must integrate that group's ideal into their own set.
 
-## Examples of Ideals
+## Examples of Founding Ideals for Player-Fighters
 
-| Example | Example |
-| ---     | ---     |
-| Avarice                   | Knowledge
-| Bananas (the fruit type)  | Life
-| Beauty                    | Love
-| Benevolence               | Loyalty
-| Chaos                     | Martial Art: \<Specific\>
-| Conformity                | Money
-| Conquest                  | Muscle Mass
-| Corruption                | Originality
-| Cruelty                   | Planet: \<Specific\>
-| Discovery                 | Science
-| Efficiency                | Sports Team: \<Specific\>
-| Equality                  | Trust
-| Family: \<Specific\>      | Vengeance: \<Specific\>
-| Friendship                | Violence
-| Justice                   | Wisdom
+| Example |
+| ---     |
+| Bananas (the fruit type)
+| Beauty
+| Benevolence
+| Chaos
+| Connections
+| Discovery
+| Efficiency
+| Enlightenment
+| Equality
+| Family: \<Specific\>
+| Friendship
+| Justice
+| Knowledge
+| Life
+| Love
+| Loyalty
+| Martial Art: \<Specific\>
+| Mystery
+| Originality
+| Peace
+| Planet: \<Specific\>
+| Science
+| Sports Team: \<Specific\>
+| Trust
+| Vengeance: \<Specific\>
+| Wisdom
+
+## Examples of Founding Ideals for Evil Enemies
+
+Enemies with these types of ideals are the main ones that the player-fighters oppose.
+
+| Example |
+| ---     |
+| Accumulation of Resources
+| Avarice
+| Betrayal
+| Conquest
+| Corruption
+| Cruelty
+| Deception
+| Domination
+| Egotism
+| Fascism
+| Fear
+| Money
+| Muscle Mass
+| Narcissism
+| Racism
+| Reductionism
+| Selfishness
+| Violence
