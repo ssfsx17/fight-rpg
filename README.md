@@ -13,6 +13,10 @@
 11. [Game Master Advice](/11-Game-Master-Advice.md)
 12. [Example Enemies](/12-Example-Enemies.md)
 
+[Official Discord space](https://discord.gg/vESjVeSTsw)
+
+## Introduction
+
 Fight RPG is a Pen & Paper role-playing game that revolves around the clashes between **Ideals**, and ultimately, the destiny of the entire universe. Every character in this game is a **Fighter** in some way.
 
 The scope of the game has an extremely-wide possible range. On the minimal end, a Fighter is recognized as someone who can defeat five others in a fistfight, using skill and strength that no mortal could possess. On the maximal end, the most powerful Fighters in the universe can destroy whole planets. Fighters are only quantified in comparison to other Fighters, with normal mortals intentionally abstracted-away.
